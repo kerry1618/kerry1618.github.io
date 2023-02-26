@@ -1,2 +1,2 @@
 # kerry1618.github.io
-SKC first repository
+My first repository
